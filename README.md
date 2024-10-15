@@ -1,0 +1,1 @@
+# LanguageTool for Android (LTA)
